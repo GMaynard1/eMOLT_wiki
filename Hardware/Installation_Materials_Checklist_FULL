@@ -1,0 +1,77 @@
+*These checklists are designed to provide a list of recommended materials and tools needed to install an eMOLT system on a commercial fishing vessel. Not all materials and tools are necessary in all installations because every vessel is different. If you run into a scenario where you need additional tools or materials not covered by this checklist, please let us know so we can make the list more comprehensive*
+
+## Tools
+*Reusable, bring these to the boat and bring them home again*
+
+- [ ] 1/2" Drill Bit (bring several, at least one new)
+- [ ] 120V AC extension cord reel
+- [ ] 7/16" wrench x2 or a 7/16" wrench and a 7/16" ratchet/socket (extras are always good)
+- [ ] Adjustable wrenches (small and medium)
+- [ ] Bicycle pump
+- [ ] Charged batteries for any power tools
+- [ ] Flat head screwdrivers (sizes 1/8 and 3/16)
+- [ ] Heat gun
+- [ ] Hex drivers (5 mm and 4.5 mm)
+- [ ] Lighter
+- [ ] Mobile phone with hotspot capability or Mobile hotspot
+- [ ] Multimeter
+- [ ] Needle nose pliers
+- [ ] Nut driver (5/16")
+- [ ] Philips screwdrivers (sizes P0 - P4)
+- [ ] Pliers
+- [ ] Power drill (preferably battery powered)
+- [ ] Pressure chamber (Click [here]() for instruction on how to build one)
+- [ ] Replacement blades for the utility knife
+- [ ] Scissors
+- [ ] Side cutters (large and small)
+- [ ] Tweezers
+- [ ] Utility knife
+- [ ] Wire cutters
+- [ ] Wire strippers / crimpers
+
+## Electronics
+- [ ] Laptop
+- [ ] USB **WIRED** keyboard (**NOT** wireless)
+- [ ] USB **WIRED** mouse (**NOT** wireless)
+
+## Equipment
+*What you're actually installing*
+
+- [ ] AC Power Supply with USB-C Cable
+- [ ] Deckbox
+- [ ] DC Voltage Converter
+- [ ] Extra-long (~10') USB-C Cable
+- [ ] Housing(s)
+- [ ] Logger(s)
+
+## Consumables
+*Stuff you'll use up eventually. Keep a bunch of this on hand*
+
+- [ ] Double stick tape
+- [ ] Velcro strips
+- [ ] **Stainless steel** 1.25" self tapping screws
+- [ ] Zip ties (several sizes, UV resistant)
+- [ ] Marine heat shrink wrap
+- [ ] Dielectric grease
+- [ ] Paper towels
+- [ ] Electrical tape
+- [ ] 8x L91 Lithium AA batteries
+- [ ] Micro fuse (3 Amp, glass)
+- [ ] Stainless steel fender washers
+- [ ] Thumb nuts
+
+## Spare Parts
+**For servicing deckboxes and loggers in the field**
+- [ ] 32 GB SSD preinstalled with DDH Software
+- [ ] 32 GB SD card preinstalled with DDH Software
+- [ ] SSD to USB adapter
+- [ ] DC Voltage Converter
+- [ ] Raspberry Pi 4 Model B
+- [ ] Juice4Halt board
+- [ ] USB A to micro b cable (4")
+- [ ] USB A right angle to micro b right angle (4")
+- [ ] External Bluetooth USB Cable Assembly (25' - 100')
+- [ ] External GPS Antenna Assembly
+- [ ] Replacement legs for deckbox
+- [ ] Replacement mounting plate for deckbox
+- [ ] Spare logger
