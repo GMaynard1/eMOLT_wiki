@@ -1,3 +1,7 @@
+layout: page
+title: "'Pre-Flight' Checklist"
+permalink: /Installation
+
 # Before going to the boat
 - [ ] Plug in deckbox to make sure it powers up. 
 - [ ] Check the DDH home page for any error messages. It may take several minutes to get a GPS fix when first powering up. 
