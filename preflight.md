@@ -1,6 +1,8 @@
+---
 layout: page
 title: "'Pre-Flight' Checklist"
 permalink: /Installation
+---
 
 # Before going to the boat
 - [ ] Plug in deckbox to make sure it powers up. 
