@@ -1,7 +1,3 @@
-layout: page
-title: "eMOLT Documentation"
-permalink: /
-
 # eMOLT Documentation
 
 This is the documentation for the environmental Monitors on Lobster Traps (eMOLT) Program. eMOLT is a collaborative effort between NOAA's Northeast Fisheries Science Center, the Gulf of Maine Lobster Foundation, the commercial fishing fleets of the Northeastern United States, and many regional entities including fishing organizations, tech companies, universities, and non-profits. 
