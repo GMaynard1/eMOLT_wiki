@@ -8,7 +8,7 @@ More than 100 fishing vessels in New England are involved in the program. They a
 ### Hardware 
 
 #### Overview
-#### ["Pre-Flight" Checklist](https://github.com/GMaynard1/eMOLT_wiki/blob/5fabd5413766092fc7d01b26bc8cf31c7c33abaf/preflight.md)
+#### ["Pre-Flight" Checklist](https://gmaynard1.github.io/eMOLT_wiki/Installation)
 #### [Installation Materials Checklist](https://github.com/GMaynard1/eMOLT_wiki/wiki/Installation-Materials-Checklist)
 #### Installation Guide (AC power)
 #### Installation Guide (DC power)
